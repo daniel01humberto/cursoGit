@@ -15,3 +15,7 @@ $ git comit -m 'mensagem'
 Adicionando repositório remoto
 
 $ git remote add origin url
+
+enviando para repositório remoto
+
+$ git push
