@@ -19,3 +19,7 @@ $ git remote add origin url
 enviando para repositório remoto
 
 $ git push
+
+criando branch
+
+$ git branch develop
