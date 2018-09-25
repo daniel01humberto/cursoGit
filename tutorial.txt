@@ -32,4 +32,8 @@ Realizando merge
 
 $ git merge master
 
+Criando branch gitFlow
+
+$ git checkout -b feature_branch
+
 Criando tarefa DESENV-02
