@@ -3,3 +3,7 @@ TUTORIAL GIT
 Iniciando repositório
 
 $ git init
+
+adicionando arquivo no índice
+
+$ git add arquivo.txt
