@@ -33,3 +33,5 @@ Realizando merge
 $ git merge master
 
 Criando tarefa DESENV-02
+
+Commit na develop
